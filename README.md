@@ -64,9 +64,38 @@ Aplicativo mobile em desenvolvimento para facilitar encontros no Carnaval, com d
 
 ### Sistema de Gestão Escolar
 
-Plataforma para organizar alunos, professores, responsáveis, turmas, notas, presença e financeiro, com recursos de notificações e comunicação.
+Plataforma completa de gestão escolar para administração de alunos, professores, responsáveis, turmas, notas, presença, financeiro, notificações e comunicação.
 
 **Tecnologias:** React · NestJS · TypeORM · MySQL · Socket.IO
+
+**Disponibilidade:** código privado.
+
+🌐 [Acessar sistema](https://escola.simplesmente.app/)
+
+#### Credenciais de demonstração
+
+> Contas destinadas exclusivamente à demonstração e ao teste do sistema.
+
+**Escola**
+
+- Login: `ceag@gmail.com`
+- Senha: `12345678`
+
+**Professor**
+
+- Login: `11223344590`
+- Senha: `12345678`
+
+**Aluno**
+
+- Login: `14544349702`
+- Senha: `12345678`
+
+### Plataforma Social 18+
+
+Plataforma social voltada ao público adulto, com perfis, galerias de mídia, stories, curtidas e comentários. Inclui painéis administrativos, controle de acesso por perfis de usuário e integração de pagamentos Pix.
+
+**Tecnologias:** React · TypeScript · Vite · PHP · Laravel · MySQL · Eloquent ORM · JWT · Mercado Pago
 
 **Disponibilidade:** código privado.
 

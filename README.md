@@ -18,9 +18,9 @@ Rio de Janeiro, RJ — Brasil
 
 ## Sobre mim
 
-Sou Anderson Pereira da Silva, desenvolvedor Full Stack com foco em aplicações web, mobile e APIs REST. Meus projetos exploram geolocalização, gestão de informações e comunicação em tempo real com Socket.IO.
+Sou Anderson Pereira da Silva, Desenvolvedor Full Stack, atuando na construção de aplicações web e mobile, APIs REST e sistemas em tempo real.
 
-Busco oportunidades como **Desenvolvedor Full Stack ou Desenvolvedor Web**, para contribuir com produtos úteis e evoluir junto a uma equipe de tecnologia.
+Desenvolvo soluções utilizando tecnologias como React, Next.js, React Native, TypeScript, Node.js e NestJS, com experiência prática em projetos que envolvem autenticação, geolocalização, bancos de dados, integrações externas e comunicação em tempo real.
 
 ## Tecnologias
 
